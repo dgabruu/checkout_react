@@ -1,0 +1,47 @@
+.table{
+
+
+    margin-top: 3rem;
+    
+  }
+  .btn-primary {
+    font-family: Raleway-SemiBold;
+    font-size: 20px;
+    color: rgba(82, 58, 191, 0.75);
+    letter-spacing: 1px;
+    border: 2px solid rgba(58, 133, 191, 0.75);
+    border-radius: 40px;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    font-weight: bolder;
+  }
+  
+  .btn-primary:hover {
+    color: #FFF;
+    background: rgba(58, 133, 191, 0.75);
+    border: 2px solid rgba(58, 133, 191, 0.75);
+  }
+  
+  .dist{
+
+    margin-left: 8px;
+  }
+  .btn:focus{
+    outline: none;
+    box-shadow:none !important;
+  }
+  .dist1{
+
+    margin-left: 8px;
+  }
+
+  .h3{
+
+    margin-top: 3rem;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:teal;
+  }
